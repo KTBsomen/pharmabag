@@ -736,8 +736,8 @@
                                                 <li><span>Ordered Item: </span> <span> 2</span></li>
                                             </ul>
                                             <ul>
-                                                <li><span>Payment Status: </span> <span> Paid / COD</span></li>
-                                                <li><span>Order Status: </span><span class="badge bg-warning"> Order Pending </span></li>
+                                                <li><span>Payment Status: </span> <span class="makepayment">Make Payment</span></li>
+                                                <li><span>Order Status: </span><span class="badge bg-success"> Order Accepted </span></li>
                                             </ul>
                                         </div>
 
